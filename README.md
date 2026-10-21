@@ -1,6 +1,14 @@
+DRAFT
+
+ABAP file formats 
+https://github.com/SAP/abap-file-formats
+
+
+
+
 # ABAP CDS File Icons
 
-File icons for ABAP RAP development in Visual Studio Code. Designed for use with [ABAP Remote FS](https://marketplace.visualstudio.com/items?itemName=murbani.vscode-abap-remote-fs).
+
 
 ## Supported Object Types
 
@@ -33,10 +41,6 @@ File icons for ABAP RAP development in Visual Studio Code. Designed for use with
 | 🟦 | AB | Generic ABAP | `*.abap` |
 
 ## Installation
-
-Search for **ABAP CDS File Icons** in the VS Code Extensions panel.
-
-After installation, activate the theme via **File > Preferences > File Icon Theme > ABAP CDS Icons**.
 
 ## Development
 
